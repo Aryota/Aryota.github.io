@@ -324,7 +324,10 @@ li {
   justify-content: space-between;
   border-style: none;
 }
-
+#slill .slill_id{
+  padding-right: 60px;
+  font-size: 40px;
+}
 #skill .card:first-child {
   flex-basis: 100%;
 }
