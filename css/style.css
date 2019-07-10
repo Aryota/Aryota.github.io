@@ -86,6 +86,7 @@ li {
   height: 600px;
   background-image: url(img/IMG_20180910_212919.jpg);
   background-size:100%;
+  background-repeat: no-repeat;
 
 
 }
