@@ -121,7 +121,7 @@ li {
   letter-spacing: .2em;
   text-align: center;
   margin-top: 10px;
-  color:#FFF;
+  color:#808080;
 
 }
 
@@ -192,7 +192,7 @@ li {
   font-size: 150px;
   line-height: 1;
   margin-bottom: 10px;
-  color: #000;
+  color: #666;
 }
 
 .section .section-desc {
@@ -383,7 +383,7 @@ li {
 #skill .rate:after {
   overflow: hidden;
   white-space: nowrap;
-  color: #f181b4;
+  color: #FFD700;
 }
 
 #skill .rate1:after {
